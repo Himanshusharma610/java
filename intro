@@ -1,4 +1,4 @@
-public class main   {
+public class intro   {
     public static void main(String[] args) {
         System.out.println("hey i am himanshu");
         System.out.println("i am from amity university");
