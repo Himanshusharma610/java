@@ -1,0 +1,8 @@
+class LongExample {
+    public static void main(String[] args) {
+        long worldPopulation =8100000000L;
+        long lightYears =9460730472580800L;
+        System.out.println("world population is :"+ worldPopulation);
+        System.out.println("lightYears : " + lightYears);
+    }
+}
