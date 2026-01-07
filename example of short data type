@@ -1,0 +1,8 @@
+class ShortExample {
+    public static void main(String[] args) {
+        short student=1000;
+        short temperature=47;
+        System.out.println("Total student is :"+ student);
+        System.out.println("temerature is :" + temperature);
+    }
+}
