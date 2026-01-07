@@ -1,0 +1,10 @@
+class DoubleExample {
+    public static void main(String[] args) {
+    double pi=3.141592653589793;
+    double piii=Math.PI; //second method to import pii value 
+    double avogadro=6.02214076e23;
+    System.out.println("the value of pi is :"+ pi);
+      System.out.println("the value of pi is :"+ piii);
+    System.out.println("avogadro number is : " + avogadro);
+}
+}
