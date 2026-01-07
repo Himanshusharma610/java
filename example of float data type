@@ -1,0 +1,8 @@
+class FloatExample {
+    public static void main(String[] args) {
+    float pi=3.14f;
+    float gravity=9.81f;
+    System.out.println("the value of pi is :"+ pi);
+    System.out.println("Earth gravity is : " + gravity);
+}
+}
