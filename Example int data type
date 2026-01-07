@@ -1,0 +1,8 @@
+class IntExample {
+    public static void main(String[] args) {
+        int population=87654321;
+        int distance=1234567890;
+        System.out.println("total population :" + population);
+        System.out.println("distance between you and me : " + distance);
+    }
+}
